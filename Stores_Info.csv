@@ -1,0 +1,9 @@
+Name,Address,Rating,Website,Type,Time of Arrival,Time of Departure,Total Time Spent (minutes)
+IHOP,"4215 South St, Lafayette, IN 47905",3.7,https://www.ihop.com/,Breakfast Restaurant,9:00,9:30,30
+Millie's Thrift Store,"101 Plaza Ln, Lafayette, IN 47909",4.7,https://milliesthriftstore.com/,Thrift Store,9:40,10:05,25
+Indianapolis Zoo,"1200 W Washington St, Indianapolis, IN 46222",3.7,https://www.indianapoliszoo.com/,Zoo,10:05,13:15,195
+Burger King ,"2175 Greenbush St, Lafayette, IN 47904",3.7,https://www.bk.com/,Fast Food Restaurant,13:30,14:05,35
+Discount Den,"618 W Stadium Ave, West Lafayette, IN 47906",4.1,https://thedenpop.com/,Convenience Store,14:30,14:40,10
+Burlington,"100 S Creasy Ln, Lafayette, IN 47905",4.3,https://www.burlington.com/,Clothing Store,17:00,18:30,90
+Walls Furniture & Mattress,"521 E Alto Rd, Kokomo, IN 46902",4.8,https://www.wallsfurniture.com/,Furniture Store,19:00,20:15,75
+Basil,"135 S Chauncey Ave # 2C, West Lafayette, IN 47906",4.1,http://www.basilthaicuisine.com/,Thai Restaurant,20:30,21:00,30
